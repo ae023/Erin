@@ -1,2 +1,2 @@
 # Erin
-# Computational Arts Website Exhibition
+###### Computational Arts Website Exhibition
