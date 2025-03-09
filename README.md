@@ -1,1 +1,1 @@
-# Erin
+A web-based experiment in obfuscation, interactive translation, binary encoding, dithering and ASCII art, disrupting surface-level readability while maintaining underlying meaning. Created following a rapid introduction to creative uses of HTML and CSS for a group pop-up show inspired by net.art, this project explores alternative modes of digital legibility and interaction. This project draws inspiration from automatic writing, surrealist techniques, and Concrete poetry, using fragmented phrases structured within an interactive, text-based web environment.
